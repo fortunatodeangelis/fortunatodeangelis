@@ -11,5 +11,6 @@ You can use the website to generate badges: https://shields.io/
 [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.fobos.it)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fortunatodeangelis/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fobos87/)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-f48024?style=flat&labelColor=f48024&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10026757/fobos)
 
 ### Languages & Frameworks & Tools & Abilities
