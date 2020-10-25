@@ -33,8 +33,9 @@ experiences made on a professional 👨‍💻 and personal level.
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" /> 
   <br>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5D95?style=flat-square&logo=php&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Larvel-F05340?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Perl" src="https://img.shields.io/badge/-Perl-4F5D95?style=flat-square&logo=perl&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <br>
@@ -44,7 +45,7 @@ experiences made on a professional 👨‍💻 and personal level.
   <br>
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-MacOS-ffffff?style=flat-square&logo=apple&logoColor=black" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-MacOS-FAFBFC?style=flat-square&logo=apple&logoColor=black" />
   <img alt="Raspberry" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi" />
   <br>    
   <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
@@ -54,7 +55,7 @@ experiences made on a professional 👨‍💻 and personal level.
   <img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-git-000000?style=flat-square&logo=github&logoColor=white" />
   <img alt="composer" src="https://img.shields.io/badge/-Composer-7A5D46?style=flat-square&logo=composer&logoColor=white" />
-  <img alt="travis" src="https://img.shields.io/badge/-Travis CI-ffffff?style=flat-square&logo=travis&logoColor=white" />
+  <img alt="travis" src="https://img.shields.io/badge/-Travis CI-FAFBFC?style=flat-square&logo=travis&logoColor=white" />
 
 </p>
 
