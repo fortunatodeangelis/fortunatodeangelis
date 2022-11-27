@@ -1,9 +1,9 @@
 ### Hi there, I'm Fortunato De Angelis 👋🏼👨🏻‍💻, a Developer 🚀 from Italy, Naples.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fortunato%20De%20Angelis-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fortunatodeangelis/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@fobos87-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=fobos87 "Follow on Twitter")
+[![Twitter Badge](https://img.shields.io/badge/-@fobos87-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=fortudeangelis "Follow on Twitter")
 [![StackOverflow](https://img.shields.io/badge/-fobos-f48024?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/10026757/fobos)
-[![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.fobos.it)
+[![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.fortunatodeangelis.dev)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fortunatodeangelis)
 ![Profile Views](https://komarev.com/ghpvc/?username=fortunatodeangelis&color=blue&style=flat)
 
